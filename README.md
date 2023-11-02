@@ -1,4 +1,4 @@
-# micro-grad
+# Autograd
 
 A meticulously crafted Neural Network model,
 lovingly built from the ground up,
