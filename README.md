@@ -1,6 +1,6 @@
-# Good old fashioned Neural Networks
+# Good old-fashioned Neural Networks
 
-Nothing to see here, just buidling myself a Neural network library from scratch.
+Nothing to see here, just building myself a Neural network library from scratch.
 
 Don't you dare use this.
 
